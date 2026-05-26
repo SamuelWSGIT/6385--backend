@@ -1,0 +1,10 @@
+{
+  "$schema": "./node_modules/json-server/schema.json",
+  "tasks": [
+    { "id": 1748217600000, "description": "Estudar JavaScript", "completed": false },
+    { "id": 1748217601000, "description": "Revisar conceitos de DOM", "completed": true },
+    { "id": 1748217602000, "description": "Fazer exercícios do curso", "completed": false },
+    { "id": 1748217603000, "description": "Assistir aula de console", "completed": true },
+    { "id": 1748217604000, "description": "Praticar console.table", "completed": false }
+  ]
+}
